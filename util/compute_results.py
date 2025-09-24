@@ -1,11 +1,7 @@
 import argparse
 import os
 import json
-import pdb
 import os
-from PIL import Image
-import matplotlib.pyplot as plt
-import random
 import pandas as pd
 from constant import POPE_PATH
 from sklearn.metrics import accuracy_score, precision_score, recall_score, confusion_matrix

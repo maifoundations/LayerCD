@@ -3,9 +3,6 @@ from typing import List, Tuple
 import transformers
 import torch
 from torch.utils.data import Dataset, DataLoader
-from model_zoo.LLaVA.constants import IMAGE_TOKEN_INDEX, DEFAULT_IMAGE_TOKEN, DEFAULT_IM_START_TOKEN, DEFAULT_IM_END_TOKEN
-from model_zoo.LLaVA.mm_utils import tokenizer_image_token, process_images
-from model_zoo.LLaVA.conversation import conv_templates
 from .constant import *
 from PIL import Image
 import os
