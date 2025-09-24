@@ -1,0 +1,60 @@
+000000006471.jpg	Is the cricket bat above the batter's body? Please answer yes or no.	Yes	( ( (-, ( ( ( ( (
+000000006471.jpg	Is the cricket bat under the batter's body Please answer yes or no.	No	- ( ( ( (0sphere  (
+000000007281.jpg	Is the sea behind people in the image? Please answer yes or no.	Yes	-No---,['
+000000007281.jpg	Is the sea in front of people in the image? Please answer yes or no.	No	,1. Yes2. No3
+000000014038.jpg	Is the refrigerator on the left side of the picture? Please answer yes or no.	Yes	,100%The refrigerator is indeed
+000000014038.jpg	Is the refrigerator on the right side of the picture Please answer yes or no.	No	- NoThe refrigerator is on the left side
+000000031248.jpg	Is there a sofa in the middle of potted plants in the image? Please answer yes or no.	Yes	--- (------
+000000031248.jpg	Is there a sofa in the right side of potted plants in the image? Please answer yes or no.	No	----------
+000000048504.jpg	Is the gray elephant in front of the brown elephant? Please answer yes or no.	Yes	- No -The gray elephant is positioned behind the
+000000048504.jpg	Is the brown elephant in front of the gray elephant? Please answer yes or no.	No	- No -The brown elephant is positioned behind the
+000000052007.jpg	Are the pedestrians on the right of the bus? Please answer yes or no.	Yes	Yes.Is the bus yellow? Yes.
+000000052007.jpg	Are the pedestrians on the left of the bus? Please answer yes or no.	No	No. The pedestrians are on the right side of
+000000056127.jpg	Is the light above the fire hydrant in the image? Please answer yes or no.	Yes	No.The fire hydrant is located on
+000000056127.jpg	Is the light under the fire hydrant in the image?  Please answer yes or no.	No	Yes.Is the light under the fire hydr
+000000062025.jpg	Is the trash can under the cup in the image？ Please answer yes or no.	Yes	-- ( ( (00 (-
+000000062025.jpg	Is the trash can above the cup in the image？ Please answer yes or no.	No	-- (0s0.00
+000000062808.jpg	Is the phone above the pizza in the image? Please answer yes or no.	Yes	( ( ( ( ( ( ( (0.
+000000062808.jpg	Is the phone under the pizza in the image? Please answer yes or no.	No	- ( ( ( ( ( ( ( (-
+000000067213.jpg	Is the dog above the pool in the image? Please answer yes or no.	Yes	( ( ( ( ( ( ( (-
+000000067213.jpg	Is the dog under the pool in the image? Please answer yes or no.	No	( ( ( ( ( ( ( ( (-
+000000097994.jpg	Is the light above the computer in the image? Please answer yes or no.	Yes	-- ( ( ( (- --1
+000000097994.jpg	Is the light under the computer in the image? Please answer yes or no.	No	- ( ( ( (0.- What are
+000000204871.jpg	Is the car on the right side of the fire hydrant in the picture? Please answer yes or no.	Yes	Yes.Is the car on the left side
+000000204871.jpg	Is the car on the left side of the fire hydrant in the picture? Please answer yes or no.	No	Yes.Is the car on the right side
+000000206487.jpg	Is the motorcycle on the right side of the bus? Please answer yes or no.	Yes	- ( ( ( ( (- --1
+000000206487.jpg	Is the motorcycle on the left side of the bus Please answer yes or no.	No	( ( ( ( ( (-)- -
+000000211825.jpg	Is the cake on the left side of the camera? Please answer yes or no.	Yes	-- ( ( ( ( ( (-1
+000000211825.jpg	Is the cake on the right side of the camera? Please answer yes or no.	No	( ( ( ( ( ( (-1 -
+000000212800.jpg	Is the blue umbrella under the black umbrella? Please answer yes or no.	Yes	No.The blue umbrella is not under the
+000000212800.jpg	Is the blue umbrella above the black umbrella? Please answer yes or no.	No	No.The blue umbrella is not above the
+000000395701.jpg	Is the TV on the left of the bookshelf? Please answer yes or no.	Yes	Yes.Is the TV on the left of
+000000395701.jpg	Is the TV on the right of the bookshelf? Please answer yes or no.	No	No. The TV is on the left side of
+000000395801.jpg	Is the clock above people? Please answer yes or no.	Yes	,['No']The clock is positioned above the
+000000395801.jpg	Is the clock under people? Please answer yes or no.	No	,No.The clock is mounted
+000000405970.jpg	Is the grey sofa on the right of the TV? Please answer yes or no.	Yes	Yes.Is the grey sofa on the right
+000000405970.jpg	Is the grey sofa on the left of the TV? Please answer yes or no.	No	No. The grey sofa is actually on the right
+000000426241.jpg	Is the white mouse on the right of the black keyboard? Please answer yes or no.	Yes	( ( ( (0. ( (- -
+000000426241.jpg	Is the white mouse on the left of the black keyboard? Please answer yes or no.	No	( ( ( ( ( ( (0. (
+000000450303.jpg	Is the monitor on top of a person? Please answer yes or no.	Yes	,No.The monitor is not on
+000000450303.jpg	Is the monitor under the person? Please answer yes or no.	No	-No.The monitor is not under
+000000458410.jpg	Is the TV on the left of the lamp? Please answer yes or no.	Yes	No.The TV is actually on the right
+000000458410.jpg	Is the TV on the right of the lamp? Please answer yes or no.	No	No.The TV is actually on the left
+000000472046.jpg	Is the pineapple on the left of the pot in the image? Please answer yes or no.	Yes	Yes.Is the pineapple on the left of
+000000472046.jpg	Is the pineapple on the right of the pot in the image? Please answer yes or no.	No	No. The pineapple is on the left of the
+000000477955.jpg	Is the person under the kite? Please answer yes or no.	Yes	,No.The person is standing on
+000000477955.jpg	Is the person above the kite? Please answer yes or no.	No	,No.The person is standing on
+000000482585.jpg	Is the person on the right of the train? Please answer yes or no.	Yes	-No.The person is standing on
+000000482585.jpg	Is the person on the left of the train? Please answer yes or no.	No	-No.The person is standing on
+000000494869.jpg	Is the baby on the right of the dog in the image? Please answer yes or no.	Yes	Yes.Is the baby on the right of
+000000494869.jpg	Is the baby on the left of the dog in the image? Please answer yes or no.	No	No. The baby is actually on the right side
+000000509699.jpg	Is the mirror above the TV? Please answer yes or no.	Yes	-,, No.The mirror is not
+000000509699.jpg	Is the mirror under the TV? Please answer yes or no.	No	-,,,['No.The mirror
+000000519569.jpg	Is the vase on the left of the bottle? Please answer yes or no.	Yes	-- (---0s-
+000000519569.jpg	Is the vase on the right of the bottle? Please answer yes or no.	No	-------0s
+000000530162.jpg	Is the big red and black umbrella on the top of people? Please answer yes or no.	Yes	( ( ( ( ( ( ( ( ( (
+000000530162.jpg	Is the big red and black umbrella under people? Please answer yes or no.	No	( ( ( ( ( ( ( ( ( (
+000000551660.jpg	Is the spoon in the bowl? Please answer yes or no.	Yes	( (-- (----0
+000000551660.jpg	Is the spoon out of the bowl? Please answer yes or no.	No	- (-----0s
+000000578922.jpg	Is the vase on the left of the toothbrush? Please answer yes or no.	Yes	No.Is the vase on the right of
+000000578922.jpg	Is the vase on the right of the toothbrush? Please answer yes or no.	No	No.Is the vase on the left of

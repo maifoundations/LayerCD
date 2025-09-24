@@ -1,0 +1,60 @@
+000000006040.jpg	Is there a train in this image? Please answer yes or no.	Yes	No.There is no train visible in this
+000000006040.jpg	Is there a bed in this image? Please answer yes or no.	No	No.There is no bed visible in this
+000000006471.jpg	Is there a baseball bat in this image? Please answer yes or no.	Yes	- (0s0-={"/-
+000000006471.jpg	Is there a giraffe in this image? Please answer yes or no.	No	-0,0 (-, ( (-
+000000007108.jpg	Is there a elephant in this image? Please answer yes or no.	Yes	No.The image does not contain any elephants
+000000007108.jpg	Is there a hair drier in this image? Please answer yes or no.	No	No. There is no hair drier visible in
+000000007816.jpg	Is there a motorcycle in this image? Please answer yes or no.	Yes	No.There is no motorcycle visible in this
+000000007816.jpg	Is there a airplane in this image? Please answer yes or no.	No	No.There is no airplane visible in this
+000000007977.jpg	Is there a skateboard in this image? Please answer yes or no.	Yes	Yes. The image shows a skateboarder in action
+000000007977.jpg	Is there a spoon in this image? Please answer yes or no.	No	No. There is no spoon visible in this image
+000000008844.jpg	Is there a person in this image? Please answer yes or no.	Yes	-No.-No.
+000000008844.jpg	Is there a sink in this image? Please answer yes or no.	No	-No.--
+000000009590.jpg	Is there a bottle in this image? Please answer yes or no.	Yes	-No.--
+000000009590.jpg	Is there a scissors in this image? Please answer yes or no.	No	-No.--
+000000010363.jpg	Is there a bottle in this image? Please answer yes or no.	Yes	-No.-,['-
+000000010363.jpg	Is there a apple in this image? Please answer yes or no.	No	-No.---
+000000011197.jpg	Is there a car in this image? Please answer yes or no.	Yes	-No.There is a car visible
+000000011197.jpg	Is there a fork in this image? Please answer yes or no.	No	-,['y', 'o', 'k
+000000015254.jpg	Is there a spoon in this image? Please answer yes or no.	Yes	--yes---
+000000015254.jpg	Is there a donut in this image? Please answer yes or no.	No	-.getSelection(4, 5)
+000000015517.jpg	Is there a bus in this image? Please answer yes or no.	Yes	---.getSelection(50
+000000015517.jpg	Is there a cow in this image? Please answer yes or no.	No	-No.The image shows a city
+000000015746.jpg	Is there a fire hydrant in this image? Please answer yes or no.	Yes	Yes. The image shows a fire hydrant in
+000000015746.jpg	Is there a person in this image? Please answer yes or no.	No	No.There is no person visible in this
+000000037751.jpg	Is there a backpack in this image? Please answer yes or no.	Yes	Yes.Is there a helmet in this image
+000000037751.jpg	Is there a microwave in this image? Please answer yes or no.	No	No. There is no microwave visible in this image
+000000050145.jpg	Is there a bicycle in this image? Please answer yes or no.	Yes	( (-0s0s00
+000000050145.jpg	Is there a apple in this image? Please answer yes or no.	No	- ( ( (-----0
+000000061418.jpg	Is there a chair in this image? Please answer yes or no.	Yes	Yes.Is there a person in this image
+000000061418.jpg	Is there a airplane in this image? Please answer yes or no.	No	No. There is no airplane visible in this image
+000000417779.jpg	Is there a car in this image? Please answer yes or no.	Yes	Yes. There is a car visible in the image
+000000417779.jpg	Is there a kite in this image? Please answer yes or no.	No	No. There is no kite visible in this image
+000000424521.jpg	Is there a skateboard in this image? Please answer yes or no.	Yes	( (-- ( (-- ( (
+000000424521.jpg	Is there a banana in this image? Please answer yes or no.	No	--- ( ( (-- (-
+000000438304.jpg	Is there a sports ball in this image? Please answer yes or no.	Yes	Yes.Is there a woman in the image
+000000438304.jpg	Is there a horse in this image? Please answer yes or no.	No	No.There is no horse visible in this
+000000494427.jpg	Is there a laptop in this image? Please answer yes or no.	Yes	Yes.The image shows an open laptop with
+000000494427.jpg	Is there a potted plant in this image? Please answer yes or no.	No	No. There is no potted plant visible in
+000000495448.jpg	Is there a cake in this image? Please answer yes or no.	Yes	Yes.The image shows a three-tiered
+000000495448.jpg	Is there a tie in this image? Please answer yes or no.	No	No.There is no tie visible in this
+000000498463.jpg	Is there a refrigerator in this image? Please answer yes or no.	Yes	Yes.Is there a microwave visible in the
+000000498463.jpg	Is there a donut in this image? Please answer yes or no.	No	Yes. There is a donut visible in the
+000000519039.jpg	Is there a truck in this image? Please answer yes or no.	Yes	-- (0s0 ( ( (
+000000519039.jpg	Is there a book in this image? Please answer yes or no.	No	- ( ( (-0910
+000000523241.jpg	Is there a car in this image? Please answer yes or no.	Yes	( ( (--- ( ( ( (
+000000523241.jpg	Is there a cell phone in this image? Please answer yes or no.	No	1 (0s- (0s" (
+000000530162.jpg	Is there a umbrella in this image? Please answer yes or no.	Yes	Yes.Is there a sign in the image
+000000530162.jpg	Is there a horse in this image? Please answer yes or no.	No	No.There is no horse visible in this
+000000537812.jpg	Is there a chair in this image? Please answer yes or no.	Yes	- No - YesYesThere is a
+000000537812.jpg	Is there a baseball bat in this image? Please answer yes or no.	No	,,No.There is no baseball
+000000541952.jpg	Is there a clock in this image? Please answer yes or no.	Yes	Yes. There is a clock visible in the image
+000000541952.jpg	Is there a bottle in this image? Please answer yes or no.	No	No. There is no bottle visible in this image
+000000546626.jpg	Is there a bottle in this image? Please answer yes or no.	Yes	( ( ( ( ( (0s19
+000000546626.jpg	Is there a mouse in this image? Please answer yes or no.	No	( ( ( - - (-1 -1
+000000556000.jpg	Is there a chair in this image? Please answer yes or no.	Yes	,-No.There is no chair
+000000556000.jpg	Is there a dog in this image? Please answer yes or no.	No	,,No.There is no dog
+000000557258.jpg	Is there a toilet in this image? Please answer yes or no.	Yes	- ( ( (-, ( ( ( (
+000000557258.jpg	Is there a pizza in this image? Please answer yes or no.	No	- (01010s0.
+000000572956.jpg	Is there a motorcycle in this image? Please answer yes or no.	Yes	-- ( ( ( (0s-
+000000572956.jpg	Is there a bus in this image? Please answer yes or no.	No	(- ( ( - ( ( (-0

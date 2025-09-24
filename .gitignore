@@ -1,0 +1,59 @@
+# Python 缓存文件
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# 虚拟环境
+env/
+venv/
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+
+# 数据库
+*.sqlite3
+
+# 配置文件
+*.env
+*.ini
+*.cfg
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# IDE/编辑器配置文件
+.vscode/
+.idea/
+*.iml
+
+# 构建文件
+build/
+dist/
+*.egg-info/
+
+# 压缩文件
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# 测试覆盖率文件
+htmlcov/
+coverage/
+*.coverage
+
+# 静态文件生成
+staticfiles/
+node_modules/
