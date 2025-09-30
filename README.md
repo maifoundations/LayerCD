@@ -68,5 +68,13 @@ python util/compute_results.py --dataset=POPE   # Dataset: POPE or MME
 If you find this work useful, please consider citing:
 
 ```
-TBD
+@misc{tong2025mitigatinghallucinationmultimodalllms,
+      title={Mitigating Hallucination in Multimodal LLMs with Layer Contrastive Decoding}, 
+      author={Bingkui Tong and Jiaer Xia and Kaiyang Zhou},
+      year={2025},
+      eprint={2509.25177},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2509.25177}, 
+}
 ```
